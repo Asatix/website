@@ -1,2 +1,3 @@
 /* /index.html 302
-http://asatix.nl/* https://asatix.com/index.html:splat 302!
+http://asatix.nl/* https://www.asatix.com/index.html:splat 302!
+https://asatix.nl/* https://www.asatix.com/index.html:splat 302!
